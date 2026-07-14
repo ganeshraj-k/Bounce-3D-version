@@ -2,6 +2,9 @@
 
 Welcome to the 3D Bounce Game project! This is a basic 3D version of the classic Bounce game, developed as a college project. It's implemented using C++ and the CGraphics library.
 
+Implemented as part of Computer Graphics Course assignment, Computer Science, IIT Indore - 2017. 
+
+
 ## 🎯 Project Objective
 
 The main objective of this project was to recreate the classic Bounce game in a 3D environment. The game involves controlling a ball that bounces off platforms, with the goal of navigating through the game while avoiding obstacles.
@@ -22,8 +25,4 @@ The main objective of this project was to recreate the classic Bounce game in a 
 
 To run the game, you need to have a C++ compiler and the CGraphics library installed on your system. Once you have these prerequisites, you can compile and run the game using your C++ compiler.
 
-## 📝 Note
 
-This project is a basic implementation of the 3D Bounce game. There's plenty of scope for adding more features and improving the game mechanics. Feel free to fork this repository and make your own enhancements!
-
-Thank you for visiting this repository. Enjoy the game!
